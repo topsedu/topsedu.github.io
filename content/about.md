@@ -9,6 +9,22 @@ caption:
   enable: false
   title: "I’m Henara Colii, A content writer based in LDN, currently at Bookworm."
 
+# social
+social:
+  enable: true
+  social_links:
+  - link: "https://www.facebook.com/tops.edu.tw/"
+    icon: "lab la-facebook-f"
+
+  - link: "https://www.instagram.com/tops.edu.tw/"
+    icon: "lab la-instagram"
+    
+  - link: "https://lin.ee/g71kPqT/"
+    icon: "lab la-line"
+    
+  - link: "https://goo.gl/maps/hyeR18dCxykefr3g6/"
+    icon: "lab la-google"
+
 # what_i_do
 what_i_do:
   title: "What I Do"
@@ -27,25 +43,9 @@ what_i_do:
     description: "Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis."
  
 ---
-> ### 「獺知」發想自金門話「讀書(tha̍k-tsu)」，同時也是英文“Tops”的諧音。
-> #### 「給孩子最好的英文教育」是我們的設立理念！
+> #### 「獺知」發想自金門話「讀書(tha̍k-tsu)」，同時也是英文“Tops”的諧音。
+> ##### 「給孩子最好的英文教育」是我們的設立理念！
 ---
 A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget.
 
 Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.
----
-# social
-social:
-  enable: true
-  social_links:
-  - link: "https://www.facebook.com/tops.edu.tw/"
-    icon: "lab la-facebook-f"
-
-  - link: "https://www.instagram.com/tops.edu.tw/"
-    icon: "lab la-instagram"
-    
-  - link: "https://lin.ee/g71kPqT/"
-    icon: "lab la-line"
-    
-  - link: "https://goo.gl/maps/hyeR18dCxykefr3g6/"
-    icon: "lab la-google"
