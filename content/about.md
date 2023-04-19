@@ -13,22 +13,22 @@ caption:
 social:
   enable: true
   social_links:
-  - link: "https://www.facebook.com/"
+  - link: "https://www.facebook.com/tops.edu.tw/"
     icon: "lab la-facebook-f"
 
-  - link: "https://www.twitter.com/"
-    icon: "lab la-twitter"
+  - link: "https://www.instagram.com/tops.edu.tw/"
+    icon: "lab la-instagram"
     
-  - link: "https://www.linkedin.com/"
-    icon: "lab la-linkedin-in"
+  - link: "https://lin.ee/g71kPqT/"
+    icon: "lab la-line"
     
-  - link: "https://www.github.com/"
-    icon: "lab la-github"
+  - link: "https://goo.gl/maps/hyeR18dCxykefr3g6/"
+    icon: "lab la-google"
 
 # what_i_do
 what_i_do:
   title: "What I Do"
-  enable: true
+  enable: false
   item:
   - title: "Content Writing"
     icon: "las la-pen-nib"
