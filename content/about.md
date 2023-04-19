@@ -5,7 +5,7 @@ image: "images/about.jpg"
 draft: false
 
 #caption
-獺知發想自金門話讀書
+
 
 # social
 social:
