@@ -5,23 +5,25 @@ image: "images/about.jpg"
 draft: false
 
 #caption
-dkdf
+caption:
+  enable: true
+  title: "I’m Henara Colii, A content writer based in LDN, currently at Bookworm."
 
 # social
 social:
   enable: true
   social_links:
-  - link: "https://facebook.com/tops.edu.tw/"
+  - link: "https://www.facebook.com/"
     icon: "lab la-facebook-f"
 
-  - link: "https://www.instagram.com/tops.edu.tw/"
-    icon: "lab la-instagram"
+  - link: "https://www.twitter.com/"
+    icon: "lab la-twitter"
     
-  - link: "https://lin.ee/g71kPqT/"
-    icon: "lab la-line"
+  - link: "https://www.linkedin.com/"
+    icon: "lab la-linkedin-in"
     
-  - link: "https://goo.gl/maps/hyeR18dCxykefr3g6/"
-    icon: "lab la-google"
+  - link: "https://www.github.com/"
+    icon: "lab la-github"
 
 # what_i_do
 what_i_do:
