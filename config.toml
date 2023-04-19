@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://topsedu.netlify.app/"
+baseURL = "https://topseducation.com/"
 title = "獺知美語 | Music Together at Tops Education"
 theme = "bookworm-light"
 # post pagination
