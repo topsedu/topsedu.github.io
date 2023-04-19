@@ -8,7 +8,7 @@ author: "Lubana Era"
 tags: ["Photography"]
 categories: ["Photography"]
 ---
-
+中文可以嗎
 Photography is an invaluable medium that allows us to capture the incandescent beauty of the outside world, something many of us haven’t seen in... well, a hot minute. Global pandemics will do that.
 
 But that certainly doesn’t mean that beautiful photos can’t be taken indoors, out of windows, or in secluded outdoor locations (safely socially distanced, of course). And perhaps now is as good a time as any to gain some helpful tips on how to do just that by taking an online photography course.

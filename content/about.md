@@ -24,7 +24,7 @@ social:
     icon: "lab la-google"
 
 # what_i_do
-what_i_do: 中文不行嗎
+what_i_do:
   title: "What I Do"
   enable: true
   item:
