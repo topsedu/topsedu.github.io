@@ -5,25 +5,23 @@ image: "images/about.jpg"
 draft: false
 
 #caption
-caption:
-  enable: true
-  title: "I’m Henara Colii, A content writer based in LDN, currently at Bookworm."
+"「獺知」發想自金門話「讀書(tha̍k-tsu)」，同時也是英文“Tops”的諧音。 - 給孩子最好的英文教育 - 是我們的設立理念！"
 
 # social
 social:
   enable: true
   social_links:
-  - link: "https://www.facebook.com/"
+  - link: "https://facebook.com/tops.edu.tw/"
     icon: "lab la-facebook-f"
 
-  - link: "https://www.twitter.com/"
-    icon: "lab la-twitter"
+  - link: "https://www.instagram.com/tops.edu.tw/"
+    icon: "lab la-instagram"
     
-  - link: "https://www.linkedin.com/"
-    icon: "lab la-linkedin-in"
+  - link: "https://lin.ee/g71kPqT/"
+    icon: "lab la-line"
     
-  - link: "https://www.github.com/"
-    icon: "lab la-github"
+  - link: "https://goo.gl/maps/hyeR18dCxykefr3g6/"
+    icon: "lab la-google"
 
 # what_i_do
 what_i_do:
