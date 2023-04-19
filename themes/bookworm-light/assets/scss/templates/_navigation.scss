@@ -147,6 +147,7 @@ header {
 
     @include tablet {
       font-size: 32px;
+      color: $dark;
     }
 
     &:hover {
