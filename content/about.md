@@ -46,7 +46,7 @@ what_i_do:
 ---
 > #### 「獺知」發想自金門話「讀書(tha̍k-tsu)」，
 > #### 同時也是英文“Tops”的諧音。
-> ##### 給孩子最好的英文教育 - 是我們的設立理念！
+> ##### 「給孩子最好的英文教育」是我們的設立理念！
 ---
 
 A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget.
