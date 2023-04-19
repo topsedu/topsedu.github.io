@@ -5,8 +5,7 @@ image: "images/about.jpg"
 draft: false
 
 #caption
-「獺知」發想自金門話「讀書(tha̍k-tsu)」，同時也是英文“Tops”的諧音。
-> 給孩子最好的英文教育 - 是我們的設立理念！
+
 
 # social
 social:
