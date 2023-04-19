@@ -1,0 +1,42 @@
+<head>
+  <meta charset="utf-8">
+  <title>{{ .Title }}</title>
+
+  <meta name="author" content="{{ site.Params.author }}">
+  <meta name="description" content="{{ with .Params.description }} {{.}} {{else}} {{ with site.Params.description }} {{.}} {{end}} {{end}}">
+
+  {{ "<!-- mobile responsive meta -->" | safeHTML}}
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+  
+  <!-- theme meta -->
+  <meta name="theme-name" content="bookworm-light" />
+
+  <!-- favicon -->
+  <!--
+  {{ partialCached "favicon" . }}
+  -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#fd4f57">
+  <meta name="apple-mobile-web-app-title" content="獺知美語">
+  <meta name="application-name" content="獺知美語">
+  <meta name="msapplication-TileColor" content="#2b5797">
+  <meta name="theme-color" content="#fd4f57">
+
+  {{ "<!-- CSS Plugins -->" | safeHTML}}
+  {{ partialCached "style.html" . }}
+  <!-- google analytics -->
+  {{ if hasPrefix .Site.GoogleAnalytics "G-" -}}
+    {{ template "_internal/google_analytics.html" . -}}
+  {{ else -}}
+    {{ template "_internal/google_analytics_async.html" . -}}
+  {{ end -}}
+
+  <!-- google fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com"> 
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+  <link href="https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@500&display=swap" rel="stylesheet">
+
+</head>
