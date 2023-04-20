@@ -4,7 +4,7 @@ date: 2023-04-20T10:53:12+08:00
 draft: false
 ---
 
-{{< image src="images/page/mt06.png" caption="" alt="alter-text" hieght="200" title="" >}}
+{{< image src="images/page/mt06.png" caption="" alt="alter-text" hieght="50" title="" >}}
 
 #### Music Together® 是什麼？
 * 對全世界數十萬個家庭而言，Music Together®這個課程，讓孩子與他們的家人都能在音樂課堂與日常生活中，快樂的享受歌曲、節奏、律動與樂器演奏帶來的樂趣。
