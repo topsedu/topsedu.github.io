@@ -186,9 +186,22 @@ hasChildren = true
 
   [[menu.main]]
   parent = "課程"
-  name = "字母班"
-  url = "alphabet/"
+  name = "NAT GEO探索班"
+  url = "abcfun/"
   weight = 2
+
+  [[menu.main]]
+  parent = "課程"
+  name = "ABC FUN字母班"
+  url = "abcfun/"
+  weight = 3
+
+  [[menu.main]]
+  parent = "課程"
+  name = "Primary FUN基礎班"
+  url = "primaryfun/"
+  weight = 4
+
 
 ############################# Footer Menu ########################
 # [[menu.footer]]
