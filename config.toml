@@ -180,7 +180,7 @@ hasChildren = true
 
   [[menu.main]]
   parent = "課程"
-  name = "Music Together"
+  name = "Music Together®"
   url = "mt/"
   weight = 7
 
