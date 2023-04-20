@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row">
       <div class="col-8 mx-auto text-center">
-
+        <li class="list-inline-item">
         {{ if or (eq .Section "tags") (eq .Section "categories") }}
         {{ if or (eq .Permalink (`tags/` | absURL)) (eq .Permalink (`categories/` | absURL)) }}
         <h3 class="mb-3 text-dark font-weight-bold">{{.Title | markdownify}}</h3>
@@ -12,7 +12,7 @@
         {{ else }}
         <h3 class="mb-3 text-dark font-weight-bold">{{.Title | markdownify}}</h3>
         {{ end }}
-
+      </li>
 <!--
         <ul class="list-inline breadcrumb-menu">
         {{ $url := replace .Permalink ( printf "%s" site.BaseURL) "" }}
