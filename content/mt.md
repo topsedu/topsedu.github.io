@@ -4,7 +4,7 @@ date: 2023-04-20T10:53:12+08:00
 draft: false
 ---
 
-{{< image src="images/page/mt06.png" caption="" alt="alter-text" hieght="50" title="" >}}
+{{< image src="images/page/mt01.jpg" caption="" alt="alter-text" command="fill" option="q95" class="img-fluid" title="" >}}
 
 #### Music Together® 是什麼？
 * 對全世界數十萬個家庭而言，Music Together®這個課程，讓孩子與他們的家人都能在音樂課堂與日常生活中，快樂的享受歌曲、節奏、律動與樂器演奏帶來的樂趣。
@@ -52,3 +52,5 @@ draft: false
 * 雖然 Music Together 不是語言指導課程，許多家庭也很高興他們的孩子能有機會透過歌曲接觸英語。繪圖歌本能讓學員從視覺提示得知歌曲的意義，對於學習任何語言的兒童，都有助於英語方面預備技能的發展。
 
 * 除了唱英語歌曲外，Music Together 的教師也鼓勵家庭以母語創作新歌詞。這樣能刺激創意與獨立性，並讓家庭在課堂外也能寓教於樂的玩音樂。課程中還有許多以「啦」或「嘟」聲唱出的「無詞歌」，讓兒童與陪同成人在無語言壓力下學習旋律，無須在意歌詞。英語歌曲、即興母語歌曲和「無詞歌」的組合，讓世界各地的人們都能以多種方式一同暢玩與享受音樂。
+
+{{< image src="images/page/mt06.png" caption="" alt="alter-text" command="fill" option="q95" class="img-fluid" title="" >}}
