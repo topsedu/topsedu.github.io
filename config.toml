@@ -139,11 +139,11 @@ weight = 6
 [[menu.main]]
 weight = 3
 url = "#"
-name = "Courses課程"
+name = "課程"
 hasChildren = true
 
   [[menu.main]]
-  parent = "Pages"
+  parent = "課程"
   name = "Author"
   url = "author/"
   weight = 1
@@ -161,25 +161,25 @@ hasChildren = true
 #  weight = 3
   
   [[menu.main]]
-  parent = "Pages"
+  parent = "課程"
   name = "Elements"
   weight = 4
   url = "elements/"
   
   [[menu.main]]
-  parent = "Pages"
+  parent = "課程"
   name = "Privacy"
   url = "privacy/"
   weight = 5
   
   [[menu.main]]
-  parent = "Pages"
+  parent = "課程"
   name = "Terms & Conditions"
   url = "terms-conditions/"
   weight = 6
 
   [[menu.main]]
-  parent = "Pages"
+  parent = "課程"
   name = "Music Together"
   url = "mt/"
   weight = 7
