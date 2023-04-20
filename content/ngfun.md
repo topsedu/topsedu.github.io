@@ -8,7 +8,7 @@ draft: false
 
 #### National Geographic探索班是什麼？
 * 歡迎中班以上的寶貝
-* 跟著美國國家地理(National Geographic Kids)探索閱讀知識之旅
+* 跟著`美國國家地理(National Geographic Kids)`探索閱讀知識之旅
 * 主題涵蓋動植物、人文、科學等，內容配合美國科學教綱
 * 陪孩子觀察世界並培養英語學習興趣
 ---
