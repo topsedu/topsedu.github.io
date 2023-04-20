@@ -163,7 +163,7 @@ hasChildren = true
   [[menu.main]]
   parent = "課程"
   name = "Elements"
-  weight = 3
+  weight = 6
   url = "elements/"
   
 #  [[menu.main]]
@@ -186,19 +186,19 @@ hasChildren = true
 
   [[menu.main]]
   parent = "課程"
-  name = "NAT GEO探索班"
-  url = "abcfun/"
+  name = "NAT GEO 探索班"
+  url = "ngfun/"
   weight = 2
 
   [[menu.main]]
   parent = "課程"
-  name = "ABC FUN字母班"
+  name = "ABC FUN 字母班"
   url = "abcfun/"
   weight = 3
 
   [[menu.main]]
   parent = "課程"
-  name = "Primary FUN基礎班"
+  name = "Primary FUN 基礎班"
   url = "primaryfun/"
   weight = 4
 

@@ -1,5 +1,5 @@
 ---
-title: "NATIONAL GEOGRAPHIC探索班"
+title: "NATIONAL GEOGRAPHIC 探索班"
 date: 2023-04-20T10:53:12+08:00
 draft: false
 ---
