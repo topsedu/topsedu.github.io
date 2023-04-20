@@ -127,7 +127,7 @@ url = "about/"
 weight = 2
 
 [[menu.main]]
-name = "Contact"
+name = "聯絡我們"
 url = "contact/"
 weight = 6
   
