@@ -4,7 +4,7 @@ date: 2023-04-20T10:53:12+08:00
 draft: false
 ---
 
-{{< image src="images/post/01.jpg" caption="This is Image Caption" alt="alter-text" command="fill" option="q95" class="img-fluid" title="image title" >}}
+{{< image src="images/page/mt01.jpg" caption="" alt="alter-text" command="fill" option="q95" class="img-fluid" title="image title" >}}
 
 #### Music Together® 是什麼？
 * 對全世界數十萬個家庭而言，Music Together®這個課程，讓孩子與他們的家人都能在音樂課堂與日常生活中，快樂的享受歌曲、節奏、律動與樂器演奏帶來的樂趣。
@@ -21,6 +21,8 @@ draft: false
 * 所有孩子都愛發出聲音也愛動，只要有豐富的音樂環境，與生俱來的音樂天份就會萌芽。事實上，只要提供充分支持孩子音樂發展的的音樂環境，就像學會走路說話一樣，孩子們也能自然而然的學會唱歌跳舞。
 
 * 您一定覺得這怎麼可能呢？因為幼兒的學習方式與成人不同。幼兒透過模仿與遊玩學習，只要浸潤在富有音樂的環境，不需任何教導，就會自然的憑本能學習音樂。
+
+{{< image src="images/page/mt05.jpg" caption="" alt="alter-text" command="fill" option="q95" class="img-fluid" title="image title" >}}
 
 * 也因此 Music Together 混齡班級 (不同年齡的孩子一起學習) 的家庭式架構能創造出理想的學習環境，讓嬰兒、幼兒、學齡前兒童能依自己的音樂程度自由參與，更重要的是， Music Together理念中，學習並不僅發生於課堂！報名的家庭可以利用課程CD、繪圖歌本，和我們網路上提供「家庭音樂地帶」的音樂創作點子，與孩子在家裡互動，在日生活中獲得音樂創作的啟發與支持。這種探索自發創作音樂的這份喜悅，轉變了許多人的家庭生活，使得親子關係更加親密。
 
