@@ -125,11 +125,16 @@ weight = 1
 name = "About"
 url = "about/"
 weight = 2
-  
+
+[[menu.main]]
+name = "Music Together"
+url = "mt/"
+weight = 3
+
 [[menu.main]]
 name = "Contact"
 url = "contact/"
-weight = 3
+weight = 4
   
 # [[menu.main]]
 # name = "Buy Premium"
@@ -180,7 +185,7 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Pages"
-  name = "mt"
+  name = "Music Together"
   url = "mt/"
   weight = 7
 
