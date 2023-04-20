@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row">
       <div class="col-8 mx-auto text-center" >
-        <ul class="border-top: 1px, solid, $color-primary">
+        <ul class="page-header-title-underline">
         {{ if or (eq .Section "tags") (eq .Section "categories") }}
         {{ if or (eq .Permalink (`tags/` | absURL)) (eq .Permalink (`categories/` | absURL)) }}
         <h3 class="mb-3 text-dark font-weight-bold">{{.Title | markdownify}}</h3>

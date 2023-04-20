@@ -505,6 +505,10 @@ a.post-title:hover,
   border-top: 1px solid $color-primary;
 }
 
+// page title underline
+.page-header-title-underline {
+  border-bottom: 1px solid $color-primary;
+}
 
 // form-control
 .form-control {
