@@ -96,6 +96,15 @@ mark {
     display: inline-block;
 }
 
+// contact
+.contact {
+  font-size: 30px;
+  color: rgba($dark, .7);
+  a {
+    color: rgba($primary, .7);
+  }
+}
+
 // card style
 .card.post-card {
   border-radius: 0px;
