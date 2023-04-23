@@ -97,10 +97,9 @@ mark {
 }
 
 // contact style
-.contact-style {
-  font-size: 30px;
-  color: rgba($dark, .7);
+.contact-link {
   a {
+    font-size: 30px;
     color: rgba($dark, .7);
   }
 }
