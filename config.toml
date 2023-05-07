@@ -186,7 +186,7 @@ hasChildren = true
 
   [[menu.main]]
   parent = "課程"
-  name = "NAT GEO 探索班"
+  name = "Nat Geo Fun 探索班"
   url = "ngfun/"
   weight = 2
 
