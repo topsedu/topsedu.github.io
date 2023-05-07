@@ -122,7 +122,7 @@ url = "/"
 weight = 1
   
 [[menu.main]]
-name = "About"
+name = "關於"
 url = "about/"
 weight = 2
 
