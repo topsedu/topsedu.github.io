@@ -1,5 +1,5 @@
 ---
-title: "Primary FUN 基礎班"
+title: "Primary Fun 基礎班"
 date: 2023-04-20T10:53:12+08:00
 draft: false
 ---

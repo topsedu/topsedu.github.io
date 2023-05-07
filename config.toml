@@ -192,13 +192,13 @@ hasChildren = true
 
   [[menu.main]]
   parent = "課程"
-  name = "ABC FUN 字母班"
+  name = "ABC Fun 字母班"
   url = "abcfun/"
   weight = 3
 
   [[menu.main]]
   parent = "課程"
-  name = "Primary FUN 基礎班"
+  name = "Primary Fun 基礎班"
   url = "primaryfun/"
   weight = 4
 
