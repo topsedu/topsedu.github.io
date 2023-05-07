@@ -49,6 +49,12 @@ what_i_do:
 > ##### _「給孩子最好的英文教育」是我們的設立理念！_
 ---
 
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget.
+一直以來最常收到的家長詢問就是，我們是否有學齡前課程，終於~我們非常開心地宣布，獺知美語成為Music Together美國總部授權中心囉！之後將首先帶來在世界各地最受歡迎的Mixed Aged 親子課程，適合0~5歲的寶貝來玩！
 
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.
+Music Together是來自美國的專業早期音樂教育系統，每期的教材都是從美國空運來台，所有老師皆需完成美國師資培訓取得師資認證才能在授權中心授課。
+
+在獺知，寶貝們將體驗到美國原汁原味的英文音樂律動課程，結合豐富多元的感官刺激，在爸爸媽媽的陪伴下，度過高品質的親密相處時光。
+
+全世界有數十萬個家庭正在上Music Together的課程，歡迎爸爸媽媽帶著寶貝來獺知感受MT的魔力吧！
+
+(預約體驗課請私訊Facebook粉絲專頁、Line官方帳號或是Instagram小盒子！)
