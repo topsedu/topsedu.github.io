@@ -7,6 +7,8 @@ draft: false
 social:
 - icon: "la-facebook-f"
   link: "https://facebook.com/tops.edu.tw"
+- icon: "lab la-instagram"
+  link: "https://www.instagram.com/tops.edu.tw"
 ---
 
 My name is Abi.
