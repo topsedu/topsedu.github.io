@@ -4,7 +4,7 @@ date: 2023-04-20T10:53:12+08:00
 draft: false
 ---
 
-{{< image src="images/page/mt01.jpg" caption="" alt="alter-text" command="fill" option="q95" class="img-fluid" title="image title" >}}
+{{< image src="images/page/abcfun.jpg" caption="" alt="alter-text" command="fill" option="q95" class="img-fluid" title="image title" >}}
 
 #### 字母班是什麼？
 * 🐣上完`探索班`後，寶貝們進入字母學習囉！
