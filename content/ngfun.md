@@ -4,7 +4,7 @@ date: 2023-04-20T10:53:12+08:00
 draft: false
 ---
 
-{{< image src="images/page/mt01.jpg" caption="" alt="alter-text" command="fill" option="q95" class="img-fluid" title="image title" >}}
+{{< image src="images/page/ngfun.jpg" caption="" alt="alter-text" command="fill" option="q95" class="img-fluid" title="image title" >}}
 
 #### Nat Geo Fun 探索班
 * 歡迎大班以上的寶貝。
