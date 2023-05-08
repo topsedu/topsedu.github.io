@@ -160,11 +160,11 @@ hasChildren = true
 #  url = "categories/"
 #  weight = 3
   
-  [[menu.main]]
-  parent = "課程"
-  name = "Elements"
-  weight = 6
-  url = "elements/"
+#  [[menu.main]]
+#  parent = "課程"
+#  name = "Elements"
+#  weight = 6
+#  url = "elements/"
   
 #  [[menu.main]]
 #  parent = "課程"
