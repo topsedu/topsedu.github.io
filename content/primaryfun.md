@@ -6,7 +6,7 @@ draft: false
 
 {{< image src="images/page/primaryfun.jpg" caption="" alt="alter-text" command="fill" option="q95" class="img-fluid" title="image title" >}}
 
-#### 國小基礎班
+#### Primary Fun 國小基礎班
 
 * 歡迎小一以上的寶貝。
 * 使用國際教材、搭配豐富線上學習資源。
