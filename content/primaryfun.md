@@ -1,14 +1,14 @@
 ---
-title: "Primary Fun 基礎班"
+title: "Primary Fun 國小基礎班"
 date: 2023-04-20T10:53:12+08:00
 draft: false
 ---
 
-{{< image src="images/page/mt01.jpg" caption="" alt="alter-text" command="fill" option="q95" class="img-fluid" title="image title" >}}
+{{< image src="images/page/primaryfun.jpg" caption="" alt="alter-text" command="fill" option="q95" class="img-fluid" title="image title" >}}
 
-#### 基礎班是什麼？
+#### 國小基礎班
 
-* 小一以上的寶貝。
+* 歡迎小一以上的寶貝。
 * 使用國際教材、搭配豐富線上學習資源。
 * 小班制互動教學，系統性學習英文。
 * 需完成錄音作業及主教材線上練習。
