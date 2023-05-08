@@ -1,5 +1,5 @@
 ---
-title: "歡迎來到 Music Together!"
+title: "歡迎來到 Music Together！"
 date: 2023-04-20T10:53:12+08:00
 draft: false
 ---
@@ -16,6 +16,8 @@ draft: false
 * 在遊玩的過程中，寶貝主要會模仿有情感依附關係的大人。爸媽若投入課程，跟著老師指令做動作和享受唱歌跳舞，將會成為寶貝們的最佳模範，這對孩子們在音樂發展階段是至關重要。而寶貝們聽到爸爸媽媽的歌聲，也會更有安全感唷！
 * 課後爸爸媽媽也將學會如何在家用當季的歌曲，與寶貝互動，刺激寶貝的感官和大腦發展，同時強化與孩子間的親密感，並創造高品質的親子時光。
 * Music Together 不會強加期望在孩子身上，我們鼓勵孩子用自己的方式回應對音樂的體驗。一開始可能寶貝只是在旁觀察，看似沒有融入課程，其實他音樂和英文的小耳朵早就悄悄打開囉！一堂課下來，寶寶的大腦各區域和七感是不斷接收刺激的，非常忙碌！
+
+{{< image src="images/page/mt05.jpg" caption="" alt="alter-text" command="fill" option="q95" class="img-fluid" title="" >}}
 
 ---
 
@@ -36,4 +38,4 @@ draft: false
 #### 寶貝的第一堂 Music Together！
 * Music Together 目前在美國、加拿大、歐洲等全世界 40 餘國持續地影響著數百萬的幼兒家庭，現在就預約體驗課，加入我們吧！
 
-{{< image src="images/page/mt06.png" caption="" alt="alter-text" command="fill" option="q95" class="img-fluid" title="" >}}
+{{< image src="images/page/mt07.jpg" caption="" alt="alter-text" command="fill" option="q95" class="img-fluid" title="" >}}
