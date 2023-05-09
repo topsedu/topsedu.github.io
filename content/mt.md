@@ -38,4 +38,4 @@ draft: false
 #### 寶貝的第一堂 Music Together！
 * Music Together 目前在美國、加拿大、歐洲等全世界 40 餘國持續地影響著數百萬的幼兒家庭，現在就預約體驗課，加入我們吧！
 
-{{< image src="images/page/mt07.jpg" caption="" alt="alter-text" command="fill" option="q95" class="img-fluid" title="" >}}
+{{< image src="images/page/mt08.jpg" caption="" alt="alter-text" command="fill" option="q95" class="img-fluid" title="" >}}
