@@ -1,8 +1,15 @@
 ---
 title: "About"
-layout: "single"
+layout: "about"
 image: "images/page/about.jpg"
 draft: false
+
+
+#caption
+caption:
+  enable: false
+  title: "I’m Henara Colii, A content writer based in LDN, currently at Bookworm."
+
 
 ---
 #### 「獺知」發想自金門話「讀書 /thak-tsu/」，
