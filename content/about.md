@@ -1,13 +1,8 @@
 ---
 title: "About"
-layout: "about"
+layout: "page"
 image: "images/page/about.jpg"
 draft: false
-
-#caption
-caption:
-  enable: false
-  title: "I’m Henara Colii, A content writer based in LDN, currently at Bookworm."
 
 # social
 social:
@@ -25,31 +20,14 @@ social:
   - link: "https://goo.gl/maps/hyeR18dCxykefr3g6/"
     icon: "lab la-google"
 
-# what_i_do
-what_i_do:
-  title: "What I Do"
-  enable: false
-  item:
-  - title: "Content Writing"
-    icon: "las la-pen-nib"
-    description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
-    
-  - title: "Photography"
-    icon: "las la-camera"
-    description: "Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis."
-    
-  - title: "Web Research"
-    icon: "lar la-snowflake"
-    description: "Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis."
  
 ---
----
-#### 「獺知」發想自金門話「讀書 /thak-tsu/」，
-#### 同時也是英文 “Tops” 的諧音。
-> ##### _「給孩子最好的英文教育」是我們的設立理念！_
----
 
-* 一直以來最常收到的家長詢問就是，我們是否有學齡前課程。終於！我們非常開心地宣布，獺知美語成為 Music Together® 美國總部授權中心囉！之後將首先帶來在世界各地最受歡迎的 Mixed Aged 親子課程，適合 0~5 歲的寶貝來玩！
+> #### 「獺知」發想自金門話「讀書 /thak-tsu/」，同時也是英文 “Tops” 的諧音。
+> #### `「給孩子最好的英文教育」是我們的設立理念！`
+
+---
+* 一直以來最常收到的家長詢問就是，我們是否有學齡前課程。終於，我們非常開心地宣布，獺知美語成為 Music Together® 美國總部授權中心囉！之後將首先帶來在世界各地最受歡迎的 Mixed Aged 親子課程，適合 0~5 歲的寶貝來玩！
 
 * Music Together® 是來自美國的專業早期音樂教育系統，每期的教材都是從美國空運來台，所有老師皆需完成美國師資培訓取得師資認證才能在授權中心授課。
 
@@ -57,4 +35,5 @@ what_i_do:
 
 * 全世界有數十萬個家庭正在上 Music Together® 的課程，歡迎爸爸媽媽帶著寶貝來獺知感受 MT 的魔力吧！
 
-##### （預約體驗課請私訊 Facebook 粉絲專頁、Line 官方帳號或是 Instagram 小盒子！）
+
+**（預約體驗課請私訊 [Facebook 粉絲專頁](https://www.facebook.com/tops.edu.tw/)、[Line 官方帳號](https://lin.ee/g71kPqT/) 或是 [Instagram 小盒子](https://www.instagram.com/tops.edu.tw/)！）**
