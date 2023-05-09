@@ -20,7 +20,6 @@ social:
   - link: "https://goo.gl/maps/hyeR18dCxykefr3g6/"
     icon: "lab la-google"
 
- 
 ---
 
 > #### 「獺知」發想自金門話「讀書 /thak-tsu/」，同時也是英文 “Tops” 的諧音。
@@ -34,6 +33,6 @@ social:
 * 在獺知，寶貝們將體驗到美國原汁原味的英文音樂律動課程，結合豐富多元的感官刺激，在爸爸媽媽的陪伴下，度過高品質的親密相處時光。
 
 * 全世界有數十萬個家庭正在上 Music Together® 的課程，歡迎爸爸媽媽帶著寶貝來獺知感受 MT 的魔力吧！
-
+---
 
 **（預約體驗課請私訊 [Facebook 粉絲專頁](https://www.facebook.com/tops.edu.tw/)、[Line 官方帳號](https://lin.ee/g71kPqT/) 或是 [Instagram 小盒子](https://www.instagram.com/tops.edu.tw/)！）**
